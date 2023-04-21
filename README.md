@@ -15,3 +15,7 @@
 ## Sabor Grelhado
 
 ![Sabor Grelhado](https://user-images.githubusercontent.com/99854346/233721933-897ec45c-4f9a-46ce-b546-eae1f15292c8.png)
+
+## Sem Sal
+
+![Sem Sal](https://user-images.githubusercontent.com/99854346/233726230-e67e0edf-1411-4e69-8955-206959405b90.png)
