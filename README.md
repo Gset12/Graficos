@@ -27,3 +27,7 @@
 ## Textura Ressecada
 
 ![Textura Ressecada](https://user-images.githubusercontent.com/99854346/233732809-2d97b52a-4bd8-48f4-aa97-3400eec4b024.png)
+
+## Textura Borrachuda
+
+![Textura Borrachuda](https://user-images.githubusercontent.com/99854346/233735324-40d39d18-56e0-4386-aa1d-3336f77eeee6.png)
