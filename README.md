@@ -19,3 +19,7 @@
 ## Sem Sal
 
 ![Sem Sal](https://user-images.githubusercontent.com/99854346/233726230-e67e0edf-1411-4e69-8955-206959405b90.png)
+
+## Sabor Residual
+
+![Sabor Residual](https://user-images.githubusercontent.com/99854346/233730087-f30e6f44-457a-4fe2-aad1-834fc84ea752.png)
