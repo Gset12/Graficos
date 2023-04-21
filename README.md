@@ -1,4 +1,4 @@
-# Graficos
+# Gráficos
 
 ## Aceitação Global:
 
