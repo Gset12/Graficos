@@ -11,3 +11,7 @@
 ## Cor Marrom Avermelhado
 
 ![Cor Marrom Avermelhado](https://user-images.githubusercontent.com/99854346/233717752-9af8993b-f03a-4ad3-9350-d39f77c916af.png)
+
+## Sabor Grelhado
+
+![Sabor Grelhado](https://user-images.githubusercontent.com/99854346/233721933-897ec45c-4f9a-46ce-b546-eae1f15292c8.png)
