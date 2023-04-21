@@ -23,3 +23,7 @@
 ## Sabor Residual
 
 ![Sabor Residual](https://user-images.githubusercontent.com/99854346/233730087-f30e6f44-457a-4fe2-aad1-834fc84ea752.png)
+
+## Textura Ressecada
+
+![Textura Ressecada](https://user-images.githubusercontent.com/99854346/233732809-2d97b52a-4bd8-48f4-aa97-3400eec4b024.png)
