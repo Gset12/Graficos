@@ -31,3 +31,19 @@
 ## Textura Borrachuda:
 
 ![Textura Borrachuda](https://user-images.githubusercontent.com/99854346/233735324-40d39d18-56e0-4386-aa1d-3336f77eeee6.png)
+
+## Aparência:
+
+![Aparência](https://user-images.githubusercontent.com/99854346/233751359-80048604-ab4b-47c2-a148-fb60cca487b3.png)
+
+## Textura:
+
+![Textura](https://user-images.githubusercontent.com/99854346/233751367-d443b95a-0ce1-4ab5-a791-78884d411ac0.png)
+
+## Sabor:
+
+![Sabor](https://user-images.githubusercontent.com/99854346/233751371-e0faf129-6ed8-46b8-8716-88d282136493.png)
+
+##Consistência Ideal:
+
+![Consistência Ideal](https://user-images.githubusercontent.com/99854346/233751376-65fb8412-a111-48d1-a2f7-f85679960f9e.png)
