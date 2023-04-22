@@ -44,6 +44,6 @@
 
 ![Sabor](https://user-images.githubusercontent.com/99854346/233751371-e0faf129-6ed8-46b8-8716-88d282136493.png)
 
-##Consistência Ideal:
+## Consistência Ideal:
 
 ![Consistência Ideal](https://user-images.githubusercontent.com/99854346/233751376-65fb8412-a111-48d1-a2f7-f85679960f9e.png)
